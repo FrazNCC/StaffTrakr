@@ -1,0 +1,5 @@
+{
+  "name": "StaffTrack",
+  "description": "A comprehensive staff event logging application to track attendance, cover, and performance metrics with AI-powered insights.",
+  "requestFramePermissions": []
+}
